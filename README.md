@@ -12,4 +12,5 @@
 - ### Auth with nodemailer
 - ### Auth with eskiz sms service
 - ### YooKassa simple payment integration
+- ### Libuv worker-threads
 - ...
