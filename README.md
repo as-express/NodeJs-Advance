@@ -13,4 +13,6 @@
 - ### Auth with eskiz sms service
 - ### YooKassa simple payment integration
 - ### Libuv worker-threads
+- ### Cluster Module 
+
 - ...
