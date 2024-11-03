@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis
+    container_name: redis-container
+    networks:
+      - my-network
+
+  app:
+    build: .
+    container_name: express-app
+    ports:
+      - '3000:3000'
+    networks:
+      - my-network
+    depends_on:
+      - redis
+    environment:
+      - REDIS_HOST=redis
+
+networks:
+  my-network:
+    driver: bridge
