@@ -1,0 +1,13 @@
+{"level":"info","message":"get method is worker successful","timestamp":"2024-11-04T07:06:54.238Z"}
+{"level":"info","message":"Post method is worker successful","timestamp":"2024-11-04T07:06:59.980Z"}
+{"level":"info","message":"get method is worker successful","timestamp":"2024-11-04T07:07:05.071Z"}
+{"level":"info","message":"Update method is worker successful","timestamp":"2024-11-04T07:07:11.948Z"}
+{"level":"info","message":"Delete method is worker successful","timestamp":"2024-11-04T07:07:17.617Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T07:07:35.018Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T07:07:36.765Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T07:07:37.174Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T08:41:06.937Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T08:41:08.487Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T08:41:09.136Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T08:41:09.554Z"}
+{"level":"error","message":"The Post error req is failed","timestamp":"2024-11-04T08:41:10.028Z"}
