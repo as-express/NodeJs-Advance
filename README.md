@@ -6,7 +6,7 @@
 </p>
 
 
-# Advance Themes and Tools of Node.js
+# Fundamental Themes and Tools of Node.js
 
 - ### Auth with cookie
 - ### Auth with nodemailer
