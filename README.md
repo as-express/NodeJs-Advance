@@ -14,5 +14,7 @@
 - ### YooKassa simple payment integration
 - ### Libuv worker-threads
 - ### Cluster Module 
+- ### Redis Integration
+- ### Winston logs
 
 - ...
